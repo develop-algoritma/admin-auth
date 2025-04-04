@@ -55,5 +55,15 @@
                 "Brackets\\AdminAuth\\AdminAuthServiceProvider"
             ]
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/develop-algoritma/admin-ui.git"
+        },
+         {
+            "type": "vcs",
+            "url": "https://github.com/develop-algoritma/media.git"
+        }
+    ]
 }
